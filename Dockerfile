@@ -5,8 +5,8 @@
 # https://github.com/cuisines/gitlab-ci-react-native-android
 #
 
-FROM ubuntu:17.04
-MAINTAINER Sascha-Matthias Kulawik <sascha@kulawik.de>
+FROM alpine:3.7
+MAINTAINER Julio Paredes <jparedes@eagle.pe>
 
 RUN echo "Android SDK 26.0.2"
 ENV VERSION_SDK_TOOLS "3859397"
