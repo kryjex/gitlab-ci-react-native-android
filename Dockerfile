@@ -5,7 +5,7 @@
 # https://github.com/cuisines/gitlab-ci-react-native-android
 #
 
-FROM alpine:3.7
+FROM phusion/baseimage:latest
 MAINTAINER Julio Paredes <jparedes@eagle.pe>
 
 RUN echo "Android SDK 26.0.2"
