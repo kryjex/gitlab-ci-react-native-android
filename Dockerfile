@@ -5,7 +5,7 @@
 # https://github.com/cuisines/gitlab-ci-react-native-android
 #
 
-FROM phusion/baseimage:latest
+FROM ubuntu:18.04
 MAINTAINER Julio Paredes <jparedes@eagle.pe>
 
 RUN echo "Android SDK 27.0.3"
