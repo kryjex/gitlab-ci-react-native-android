@@ -6,7 +6,7 @@
 #
 
 FROM ubuntu:18.04
-MAINTAINER Sascha-Matthias Kulawik <sascha@kulawik.de>
+MAINTAINER Julio Paredes <jparedes@eagle.pe>
 
 RUN echo "Android SDK 26.0.2"
 ENV VERSION_SDK_TOOLS "3859397"
