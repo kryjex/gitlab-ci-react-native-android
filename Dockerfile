@@ -1,8 +1,8 @@
 #
-# GitLab CI react-native-android v0.1
+# GitLab CI react-native-android v0.2
 #
-# https://hub.docker.com/r/webcuisine/gitlab-ci-react-native-android/
-# https://github.com/cuisines/gitlab-ci-react-native-android
+# https://hub.docker.com/r/kryjex/gitlab-ci-react-native-android/
+# https://github.com/kryjex/gitlab-ci-react-native-android
 #
 
 FROM ubuntu:18.04
